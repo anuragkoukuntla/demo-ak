@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv("data.csv")
 
 # Display original data
-print("Original Data:")
+print("Original Raw Data:")
 print(df)
 
 # Operations on age column
