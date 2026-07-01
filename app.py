@@ -17,7 +17,7 @@ print("Average Age:", df["age"].mean())
 print("Maximum Age:", df["age"].max())
 
 # Minimum age
-print("Minimum Age:", df["age"].min())
+print("Minimum_Age:", df["age"].min())
 
 # Add 5 years to age
 df["age_after_5_years"] = df["age"] + 5
